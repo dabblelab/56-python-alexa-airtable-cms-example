@@ -1,0 +1,21 @@
+{
+    "SKILL_NAME": "the Dabble Lab Airtable Example Template",
+    "HELP": [
+      "This is the help prompt."
+    ],
+    "HELP_REPROMPT": [
+      "This is the help reprompt."
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. Can you please repeat?"
+    ],
+    "FALLBACK_REPROMPT": [
+      "Can you please repeat?"
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Good bye",
+      "Okay. I'll be here if you need me."
+    ],
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
